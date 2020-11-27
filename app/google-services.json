@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "197282229367",
-    "firebase_url": "https://qchat-4dab3.firebaseio.com",
-    "project_id": "qchat-4dab3",
-    "storage_bucket": "qchat-4dab3.appspot.com"
+    "project_number": "557991323651",
+    "firebase_url": "https://rbpractice1-247c2.firebaseio.com",
+    "project_id": "rbpractice1-247c2",
+    "storage_bucket": "rbpractice1-247c2.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:197282229367:android:b57e2e953b0282b076ea72",
+        "mobilesdk_app_id": "1:557991323651:android:3d294d2b1fcf67762ec636",
         "android_client_info": {
-          "package_name": "om.example.qchat"
+          "package_name": "com.example.nchatapp0"
         }
       },
       "oauth_client": [
         {
-          "client_id": "197282229367-vj3ci9k6dr6kqpfmukr362lqhcmg48pi.apps.googleusercontent.com",
+          "client_id": "557991323651-75253tgah7duvo3u3qjiic4v34o5feri.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDaMLNQBSjflk38UQN7kDJ4LMQxmXWq7Ns"
+          "current_key": "AIzaSyAuhmc4BbaSHvcQAeBzgpPq-w9Ri4PRh0w"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "197282229367-vj3ci9k6dr6kqpfmukr362lqhcmg48pi.apps.googleusercontent.com",
+              "client_id": "557991323651-75253tgah7duvo3u3qjiic4v34o5feri.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
