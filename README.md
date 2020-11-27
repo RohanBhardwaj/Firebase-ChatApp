@@ -12,12 +12,16 @@ A chatting application built with the help of firebase and Android Studio.
 
 <p align="center" width="100%">
     <img width="33%" src="snaps/register.jpg"> 
-    <img width="33%" src="login.jpg"> 
-    <img width="33%" src="users.jpg"> 
+    <img width="33%" src="snaps/login.jpg"> 
+    <img width="33%" src="snaps/users.jpg"> 
 </p>
-
-![](snaps/OneToOne.jpg)
-![](snaps/forums.jpg)
-![](snaps/JavaForum.jpg)
-![](snaps/Functionality.jpg)
-![](snaps/Profile.jpg)
+<p align="center" width="100%">
+    <img width="33%" src="snaps/OneToOne.jpg"> 
+    <img width="33%" src="snaps/forums.jpg"> 
+    <img width="33%" src="snaps/JavaForum.jpg"> 
+</p>
+<p align="center" width="100%">
+    <img width="33%" src="snaps/Functionality.jpg"> 
+    <img width="33%" src="snaps/Profile.jpg"> 
+    
+</p>
