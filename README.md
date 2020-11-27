@@ -9,9 +9,13 @@ A chatting application built with the help of firebase and Android Studio.
 * LogOut to use multiple Accounts
 
 ## Screenshots
-<img src="snaps/register.jpg" width="300">
-![](snaps/login.jpg)
-![](snaps/users.jpg)
+
+<p align="center" width="100%">
+    <img width="33%" src="snaps/register.jpg"> 
+    <img width="33%" src="login.jpg"> 
+    <img width="33%" src="users.jpg"> 
+</p>
+
 ![](snaps/OneToOne.jpg)
 ![](snaps/forums.jpg)
 ![](snaps/JavaForum.jpg)
